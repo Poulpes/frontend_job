@@ -28,8 +28,8 @@ Pour installer Middleman : `gem install middleman`
 Tu peux donc forker ce repo et commencer ! 
 
 Quelques commandes qui te seront utile : 
-* lancer un serveur : `middleman`
-* deployer en ligne : `middleman deploy` tu peux alors accéder à ton site en ligne sur `USERNAME_GITHUB.github.io/NOM_DU_PROJET`
+* lancer un serveur : `$ middleman`
+* deployer en ligne : `$ middleman deploy` tu peux alors accéder à ton site en ligne sur `USERNAME_GITHUB.github.io/NOM_DU_PROJET`
 
 Commit et push régulièrement pour que l'on puisse voir ta manière de travailler.
 
